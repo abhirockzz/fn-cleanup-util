@@ -1,6 +1,6 @@
 # Functions clean up utility
 
-Deletes
+Cascade deletion....
 
 - Triggers
 - Routes
