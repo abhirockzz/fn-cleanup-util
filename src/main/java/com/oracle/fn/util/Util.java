@@ -1,5 +1,7 @@
 package com.oracle.fn.util;
 
+import com.oracle.fn.FnHTTPGet;
+import com.oracle.fn.FnHTTPDelete;
 import com.google.gson.Gson;
 
 import com.oracle.fn.util.pojos.app.Apps;

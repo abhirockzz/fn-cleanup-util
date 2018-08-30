@@ -1,4 +1,4 @@
-package com.oracle.fn.util;
+package com.oracle.fn;
 
 import com.google.common.collect.ImmutableList;
 import com.google.common.collect.ImmutableMap;
